@@ -1,5 +1,7 @@
-NF-e: Nota Técnica 2026.010 – Novo Leiaute do DANFE para a Reforma Tributária
+NF-e: Nota Técnica 2026.010 – Novo Layout da DANFE para a Reforma Tributária
 
-Disponibilizo o layout na vertical. 
+![](https://github.com/danecool/NFe-NT-2026.010/blob/main/NT%202026.010%20NF-e%20DANFE%20Vertical.png)
 
-Ajustar imports, varíáveis, etc...
+Layout na vertical.
+
+Basta importar e ajustar os imports, variáveis etc, ou você pensou que ia ter tudo mastigado?!
